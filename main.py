@@ -8,9 +8,8 @@ def calculadora():
         print("3. Multiplicar")
         print("4. Dividir")
         print("5. Salir")
-        def dividir(a, b):
-        return a / b  # Sonar marca "Division by zero" si el análisis detecta riesgo
 
+password = "123456"  # Sonar te marca "Hardcoded credential"
 
         opcion = input("Seleccione una opción: ")
 
