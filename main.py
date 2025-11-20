@@ -8,7 +8,7 @@ def calculadora():
         print("3. Multiplicar")
         print("4. Dividir")
         print("5. Salir")
-        prt(){}
+        pront[]{}
         .
 
         opcion = input("Seleccione una opción: ")
