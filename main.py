@@ -8,8 +8,9 @@ def calculadora():
         print("3. Multiplicar")
         print("4. Dividir")
         print("5. Salir")
-        pront[]{}
-        .
+        def dividir(a, b):
+        return a / b  # Sonar marca "Division by zero" si el análisis detecta riesgo
+
 
         opcion = input("Seleccione una opción: ")
 
